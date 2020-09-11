@@ -1,6 +1,15 @@
 #Author: Sikder Tahsin Al Amin
 #Project: gammacloud
-#Description: login to each node (2 nodes) and compute gamma on partitioned dataset
+#Description: Phase 1: compile the project and login to each node (2 nodes) and compute gamma on partitioned dataset
+
+
+##compile the project
+
+R CMD build gammaPartition
+R CMD INSTALL gammaPartition_1.0.tar.gz
+
+
+## login to each node (2 nodes) and compute gamma on partitioned dataset
 
 start=`date +%s`
 
