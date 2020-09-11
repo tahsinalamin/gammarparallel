@@ -1,7 +1,9 @@
 # gammarparallel
 
 Author: Sikder Tahsin Al Amin
+
 Year: 2020
+
 Description: This project contains the source code of this paper: Scalable Machine Learning on Popular Analytic
 Languages with Parallel Data Summarization. (http://www2.cs.uh.edu/~ordonez/pdfwww/w-2020-DAWAK-gammarparallel.pdf)
 
