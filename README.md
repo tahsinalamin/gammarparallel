@@ -7,6 +7,8 @@ Year: 2020
 Description: This project contains the source code of this paper: Scalable Machine Learning on Popular Analytic
 Languages with Parallel Data Summarization. (http://www2.cs.uh.edu/~ordonez/pdfwww/w-2020-DAWAK-gammarparallel.pdf)
 
+If you have any questions or conerns, please send an email to carlos@central.uh.edu or stahsin.cse@gmail.com
+
 
 ### HOW TO RUN ###
 Steps to run on all machines at once:
