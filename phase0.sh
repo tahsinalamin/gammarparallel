@@ -1,5 +1,5 @@
 #Author: Sikder Tahsin Al Amin
-#project: gammarpartition
+#project: gammarparallel
 #Description: Split a data set and send it to 2 machines.
 #Usage: input=input data set; partition_size=row size in each partition
 #Change the username, ipaddress and path in line 31.
