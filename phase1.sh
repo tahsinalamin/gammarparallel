@@ -1,5 +1,5 @@
 #Author: Sikder Tahsin Al Amin
-#Project: gammacloud
+#Project: gammarparallel
 #Description: Phase 1: compile the project and login to each node (2 nodes) and compute gamma on partitioned dataset
 
 
